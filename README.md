@@ -24,5 +24,6 @@ cd your-repository
 8.  npm run dev
 
 use another console
-  
-9.  php artisan serve
+
+9.  php artisan optimize  
+10. php artisan serve
